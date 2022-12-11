@@ -2,20 +2,20 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+El boilerplate más básico para cualquier estudiante de 4Geeks Academy utilizando el editor de código [gitpod.io](gitpod.io).
 
 [![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
 
-## What to do next?
+## ¿Qué hacer a continuación?
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Crea un archivo `index.html` con [la estructura básica de HTML](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) y ve el resultado en vivo corriendo un servidor web utilizando el siguiente comando:
 
 ```sh
 $ pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+- Puedes crear tantos archivos HTML cómo desees
+- También puedes crear archivos CSS e importarlos en tu página web utilizando una etiqueta `<link>` ubicándola entre las etiquetas `<head></head>`, de la siguiente manera:
 
 ```html
 <head>
